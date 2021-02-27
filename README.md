@@ -22,7 +22,7 @@ Is it that some regions have bigger flat sizes even though they are also classif
 Does flat size affect price? \
 Does remaining lease duration affect resale price? \
 When is the best time to sell flat? \
-Does higher marriage rate means higher purchase volume for resale flat? \
+Does higher marriage rate means higher purchase volume for resale flat? 
 
 # For this observation i will break into three part
 
@@ -38,7 +38,7 @@ Part B Ref:
 
 df_2000 : https://data.gov.sg/dataset/resale-flat-prices?resource_id=8c00bf08-9124-479e-aeca-7cc411d884c4 (kindly visit this link to download csv file due to file size restriction) \
 df_2012 : https://data.gov.sg/dataset/resale-flat-prices?resource_id=83b2fc37-ce8c-4df4-968b-370fd818138b \
-df_2015 : https://data.gov.sg/dataset/resale-flat-prices?resource_id=1b702208-44bf-4829-b620-4615ee19b57c \
+df_2015 : https://data.gov.sg/dataset/resale-flat-prices?resource_id=1b702208-44bf-4829-b620-4615ee19b57c 
 
 Part C Ref:
 
